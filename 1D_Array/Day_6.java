@@ -20,3 +20,34 @@ public class Solution {
         }
     }
 }
+
+/*
+>TEST CASE 1
+SAMPLE INPUT :
+4
+21
+12
+23
+45
+SAMPLE OUTPUT :
+21
+12
+23
+45
+
+>TEST CASE 2
+SAMPLE INPUT :
+5
+56
+34
+22
+77
+11
+SAMPLE OUTPUT :
+56
+34
+22
+77
+11
+
+*/
