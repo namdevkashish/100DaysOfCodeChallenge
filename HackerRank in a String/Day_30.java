@@ -53,13 +53,91 @@ public class Solution {
 
 /*
 #TEST CASE 1:
+Compiler Message
+Success
 
+Input (stdin)
+
+Download
+2
+hereiamstackerrank
+hackerworld
+
+Expected Output
+
+Download
+YES
+NO
 
 #TEST CASE 2:
+Compiler Message
+Success
 
+Input (stdin)
+
+Download
+100
+bvxqokorcxbivcnvdmcametgxvzftjkiyzatzatnapwttpxwqegvxllbtvxfnmwwbkicnaxmjxwgecexnndlgmwfsiusksumczuzfpajpmsboatncwzecbkxavloimnkllziuvaikvogykbcqizbqmdxyipclavzgvgonstdzpzskwvixgdfyblmmymtxwoxsoyqlqzbsyuatyebgkwznlnxqjefgkeluqcvtgmtvjsbaalxpqdmkptbqyefleiulcbsijglnawbwmbzuqybuqfmpewqnvnxqpawngtmuplfvlctyysbicubvnbjaayepapsotfzzfpdifsnpovufuuxsevipbbylkyoboqjatntvtqpbxjgposuleiqjnzbdecuzdjujweuztnwoggaoljoniwpkdbttjpnfomegodafcqpfjoxcpaiejdnnkvavjxgnbffuzkaozveqekvmdvwfnldlpzbkyioczsqnggspqgeyktlksupywxkgydwzovlndectcjwnxikuwcqdapqlvsdlboaesypkpujcdmwqmvfoqlsptkkzwsmauadiuqoygoucdzcgoodmdmwcaafwygzktolpqzvyovekgpobndncyzmpemzsxtzovjxzettonibczyyxdfvbealnzsoysminakkcwlmnnxnlultsnagfllmckenvbyimcmxsxkwfxcozjniayaydmausxgwntoxplvmnbqmgnbqibbksgxzjydswmdlmxdcjzszicsowtnntakaopldgywibqdbiapexeumwizozfdjzdjfevwkycctuoplypfvnlclilayfgntuaidctvxntujlaqzizoiueqgkydnzqfeaizobbniyswfaooxuzxfcuvsplksvgqnpitctdkymlytpxtzikveznmvzakpiecagzilefzluzfxexzwiwcfmwfgbvumcalixagmikxgdwjdblzlowyximkgwtwgkcycluaiuddfocelymvfccfb{-truncated-}
+
+Download to view the full testcase
+
+Expected Output
+
+Download
+NO
+NO
+NO
+YES
+NO
+NO
+NO
+NO
+YES
+NO
+NO
+NO
+NO
+NO
+YES
+NO
+NO
+NO
+NO
+YES{-truncated-}
+
+Download to view the full testcase
 
 #TEST CASE 3:
+Compiler Message
+Success
 
+Input (stdin)
 
+Download
+10
+knarrekcah
+hackerrank
+hackeronek
+abcdefghijklmnopqrstuvwxyz
+rhackerank
+ahankercka
+hacakaeararanaka
+hhhhaaaaackkkkerrrrrrrrank
+crackerhackerknar
+hhhackkerbanker
+
+Expected Output
+
+Download
+NO
+YES
+NO
+NO
+NO
+NO
+YES
+YES
+NO
+NO
 
 */
